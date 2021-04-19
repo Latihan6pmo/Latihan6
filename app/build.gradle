@@ -7,7 +7,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.yudha.yudha123"
+        applicationId "com.yudha.yudha012"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1
